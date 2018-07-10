@@ -1,7 +1,8 @@
 **Fun games that I like**, in no particular order:
+
 * Motherlode
 * Pico's School
-* Half-Life: Decay (*for the Playstation 2*)
+* Half-Life: Decay (for the Playstation 2)
 * Terraria
 * NARUTO SHIPPUDEN: Ultimate Ninja STORM 4
 * Tcheco no Castelo do Sarney
@@ -16,7 +17,7 @@
 * Wizardry 6: Bane of the Cosmic Forge
 * Octodad: Dadliest Catch
 * Hotline Miami
-* Space Funeral (*or anything by thecatamites*)
+* Space Funeral (or anything by thecatamites)
 * Amnesia: A Machine for Pigs
 * Tetris
 * Mario Tennis Aces
