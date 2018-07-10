@@ -1,3 +1,4 @@
+# Fun Games
 **Fun games that I like**, in no particular order:
 
 * Motherlode
