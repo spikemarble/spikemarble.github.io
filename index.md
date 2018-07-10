@@ -8,3 +8,5 @@ This is **`spikemarble`**, a *fictional* organization made from a pair of random
 - [ ] Pointless fuss
 - [ ] Would you look at that
 - [ ] Fascinating
+
+Here are some [fun games that I like](fungames.md)
